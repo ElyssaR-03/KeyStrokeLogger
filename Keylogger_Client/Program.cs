@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace COMP_6700_Assignment1
+namespace Keylogger_Client
 {
     class ClassWork
     {
