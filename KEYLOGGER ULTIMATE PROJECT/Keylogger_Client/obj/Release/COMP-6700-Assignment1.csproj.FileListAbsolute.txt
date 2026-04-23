@@ -1,0 +1,7 @@
+C:\Users\zelda\OneDrive\Desktop\KEYLOGGER ULTIMATE PROJECT\Keylogger_Client\bin\Release\COMP-6700-Assignment1.exe.config
+C:\Users\zelda\OneDrive\Desktop\KEYLOGGER ULTIMATE PROJECT\Keylogger_Client\bin\Release\COMP-6700-Assignment1.exe
+C:\Users\zelda\OneDrive\Desktop\KEYLOGGER ULTIMATE PROJECT\Keylogger_Client\bin\Release\COMP-6700-Assignment1.pdb
+C:\Users\zelda\OneDrive\Desktop\KEYLOGGER ULTIMATE PROJECT\Keylogger_Client\obj\Release\COMP-6700-Assignment1.csproj.AssemblyReference.cache
+C:\Users\zelda\OneDrive\Desktop\KEYLOGGER ULTIMATE PROJECT\Keylogger_Client\obj\Release\COMP-6700-Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\zelda\OneDrive\Desktop\KEYLOGGER ULTIMATE PROJECT\Keylogger_Client\obj\Release\COMP-6700-Assignment1.exe
+C:\Users\zelda\OneDrive\Desktop\KEYLOGGER ULTIMATE PROJECT\Keylogger_Client\obj\Release\COMP-6700-Assignment1.pdb

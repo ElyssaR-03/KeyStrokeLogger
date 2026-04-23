@@ -1,0 +1,15 @@
+C:\Users\zelda\OneDrive\Desktop\Computer Science Projects\Keylogger_Server\bin\Debug\Keylogger_Server.exe.config
+C:\Users\zelda\OneDrive\Desktop\Computer Science Projects\Keylogger_Server\bin\Debug\Keylogger_Server.exe
+C:\Users\zelda\OneDrive\Desktop\Computer Science Projects\Keylogger_Server\bin\Debug\Keylogger_Server.pdb
+C:\Users\zelda\OneDrive\Desktop\Computer Science Projects\Keylogger_Server\obj\Debug\Keylogger_Server.csproj.AssemblyReference.cache
+C:\Users\zelda\OneDrive\Desktop\Computer Science Projects\Keylogger_Server\obj\Debug\Keylogger_Server.csproj.CoreCompileInputs.cache
+C:\Users\zelda\OneDrive\Desktop\Computer Science Projects\Keylogger_Server\obj\Debug\Keylogger_Server.exe
+C:\Users\zelda\OneDrive\Desktop\Computer Science Projects\Keylogger_Server\obj\Debug\Keylogger_Server.pdb
+C:\Users\zelda\OneDrive\Desktop\KEYLOGGER ULTIMATE PROJECT\Keylogger_Server\obj\Debug\Keylogger_Server.csproj.AssemblyReference.cache
+C:\Users\zelda\OneDrive\Desktop\KEYLOGGER ULTIMATE PROJECT\Keylogger_Server\obj\Debug\Keylogger_Server.exe.config
+C:\Users\zelda\OneDrive\Desktop\KEYLOGGER ULTIMATE PROJECT\Keylogger_Server\obj\Debug\Keylogger_Server.csproj.CoreCompileInputs.cache
+C:\Users\zelda\OneDrive\Desktop\KEYLOGGER ULTIMATE PROJECT\Keylogger_Server\obj\Debug\Keylogger_Server.exe
+C:\Users\zelda\OneDrive\Desktop\KEYLOGGER ULTIMATE PROJECT\Keylogger_Server\obj\Debug\Keylogger_Server.pdb
+C:\Users\zelda\OneDrive\Desktop\KEYLOGGER ULTIMATE PROJECT\Keylogger_Server\bin\Debug\Keylogger_Server.exe.config
+C:\Users\zelda\OneDrive\Desktop\KEYLOGGER ULTIMATE PROJECT\Keylogger_Server\bin\Debug\Keylogger_Server.exe
+C:\Users\zelda\OneDrive\Desktop\KEYLOGGER ULTIMATE PROJECT\Keylogger_Server\bin\Debug\Keylogger_Server.pdb
